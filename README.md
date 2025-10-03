@@ -24,7 +24,7 @@ ___
 Clone this repository or download the files.
 Install dependencies:
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt```
 
 ___
 
