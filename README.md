@@ -39,7 +39,7 @@ ___
 
 ## Data
 The original dataset is [Bitcoin Historical Data (Kaggle)](https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data?select=btcusd_1-min_data.csv).
-For this assignment, I resampled it to **daily OHLCV** (Open, High, Low, Close, Volume) covering 2012-2025.
+For this assignment, I resampled it to daily OHLCV (Open, High, Low, Close, Volume) covering 2012-2025.
 The smaller resampled file used in this analysis is included in the files section.
 
 ___
