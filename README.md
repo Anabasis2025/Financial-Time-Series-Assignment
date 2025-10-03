@@ -21,8 +21,8 @@ ___
 ___
 
 ## Setup and Running
-1.) Clone this repository or download the files.
-2.) Install dependencies:
+Clone this repository or download the files.
+Install dependencies:
 ```bash
 pip install -r requirements.txt
 
